@@ -1,4 +1,4 @@
-# robotic_arm
+# Robotic Arm
 
 I got inspiration for the design from "https://www.tinkercad.com/things/amCgJ0nCYuh-robotic-arm"
 
